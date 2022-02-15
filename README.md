@@ -4,7 +4,7 @@ My name is Elier, I'm from Mexico and I'm a student.
 
 * Currently studying computer and telecommunications engineering in Universidad Autónoma Metropolitana.
 
-###I'm currently learning: 
+### I'm currently learning: 
 
 * Python
 * To use sensors through esp32 and raspberry
