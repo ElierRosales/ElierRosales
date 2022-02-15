@@ -8,6 +8,13 @@ My name is Elier, I'm from Mexico and I'm a student.
 
 * Some Python coding
 * Some C coding
+* Teamwork
+
+## Interests
+
+* IoT
+* NetworkScience
+* Object-oriented programming
 
 ## Contact
 * Email: j.eror0895@gmail.com
