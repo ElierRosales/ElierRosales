@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Elier, I'm from Mexico and I'm a student.
+
+* Currently studying computer and 
 <!--
 **ElierRosales/ElierRosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
