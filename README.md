@@ -1,8 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Elier, I'm from Mexico and I'm a student.
 
-* Currently studying computer and 
+* Currently studying computer and telecommunications engineering in Universidad Autónoma Metropolitana.
+
+## Skills
+
+* Some Python coding
+* Some C coding
+
+## Contact
+* Email [Link text] (j.eror0895@gmail.com)
 <!--
 **ElierRosales/ElierRosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
