@@ -11,8 +11,8 @@ My name is Elier, I'm from Mexico and I'm a student.
 
 ## Skills
 
-* Some Python coding
-* Some C coding
+* Basic Python
+* Basic C 
 * Teamwork
 
 ## Interests
