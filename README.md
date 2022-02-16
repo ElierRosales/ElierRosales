@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Elier, I'm from Mexico and I'm a student.
+My name is Elier, I'm from Mexico and I'm a university student.
 
 * Currently studying computer and telecommunications engineering in Universidad Autónoma Metropolitana.
 
