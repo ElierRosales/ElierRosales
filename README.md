@@ -17,6 +17,7 @@ My name is Elier, I'm from Mexico and I'm a university student.
 * Basic Java
 * Node Red
 * Basic MySQL
+* LaTeX
 
 ## Interests
 
