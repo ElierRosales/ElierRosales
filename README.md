@@ -14,6 +14,9 @@ My name is Elier, I'm from Mexico and I'm a university student.
 * Intermediate Python
 * Basic C 
 * Teamwork
+* Basic Java
+* Node Red
+* Basic MySQL
 
 ## Interests
 
