@@ -2,7 +2,7 @@
 
 My name is Elier, I'm from Mexico and I'm a university student.
 
-* Currently studying computer and telecommunications engineering in Universidad Autónoma Metropolitana.
+* Currently studying computer and telecommunications engineering in Universidad Autónoma Metropolitana. I´m constantly learning new technologies.
 
 ### I'm currently learning: 
 
