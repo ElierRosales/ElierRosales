@@ -25,7 +25,7 @@ My name is Elier, I'm from Mexico and I'm a university student.
 
 ## Interests
 
-* web developer
+* web development
 * IoT
 * NetworkScience
 * Object-oriented programming
