@@ -32,6 +32,7 @@ My name is Elier, I'm from Mexico and I'm a university student.
 
 ## Contact
 * Email: j.eror0895@gmail.com
+* Phone: 5518043876
 <!--
 **ElierRosales/ElierRosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
