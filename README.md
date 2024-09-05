@@ -6,21 +6,26 @@ My name is Elier, I'm from Mexico and I'm a university student.
 
 ### I'm currently learning: 
 
-* Python
-* To use sensors through esp32 and raspberry
+* Mongodb
+* React
 
 ## Skills
 
-* Intermediate Python
+* PHP
+* HTML
+* CSS
+* Bootstrap5
+* Python to use sensors through esp32 and raspberry
 * Basic C 
 * Teamwork
-* Basic Java
+* Intermediate Java
 * Node Red
-* Basic MySQL
+* MySQL
 * LaTeX
 
 ## Interests
 
+* web developer
 * IoT
 * NetworkScience
 * Object-oriented programming
